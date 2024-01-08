@@ -1,0 +1,6 @@
+.commonbutton{
+  padding: 1px;
+}
+.nav-link {
+  transition: color 0.3s ease-in-out; /* Example: Smooth color transition on hover */
+}

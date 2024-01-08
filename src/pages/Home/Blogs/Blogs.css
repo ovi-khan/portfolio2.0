@@ -1,0 +1,28 @@
+.blogsbg{
+    background-image: url('../../../assets//images/abstract/abstract10.jpg');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    height:700px;
+
+
+
+}
+.commonbutton{
+    padding: 1px;
+}
+
+.blogsection:hover .blogtitle{
+    background: -webkit-linear-gradient(rgb(16 185 129),rgb(99 102 241));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.blogsection:hover .readmore{
+    background: -webkit-linear-gradient(180deg,rgb(99 102 241),rgb(16 185 129));
+color:white;
+}
+
+.blogsection:hover .blogline{
+    background: -webkit-linear-gradient(180deg,rgb(99 102 241),rgb(16 185 129));
+}

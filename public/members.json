@@ -1,0 +1,43 @@
+[
+    {
+      "image": "developer1.jpg",
+      "name": "John Doe",
+      "category": "Web Development"
+    },
+    {
+      "image": "developer2.jpg",
+      "name": "Jane Smith",
+      "category": "Mobile App Development"
+    },
+    {
+      "image": "developer3.jpg",
+      "name": "Alice Johnson",
+      "category": "Software Development"
+    },
+    {
+      "image": "developer4.jpg",
+      "name": "Bob Wilson",
+      "category": "Game Development"
+    },
+    {
+      "image": "developer5.jpg",
+      "name": "Ella Brown",
+      "category": "UI/UX Design"
+    },
+    {
+      "image": "developer6.jpg",
+      "name": "Charlie Davis",
+      "category": "Data Science"
+    },
+    {
+      "image": "developer7.jpg",
+      "name": "Sophia Taylor",
+      "category": "Digital Marketing"
+    },
+    {
+      "image": "developer8.jpg",
+      "name": "Oliver Miller",
+      "category": "Blockchain Development"
+    }
+  ]
+  

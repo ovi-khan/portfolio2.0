@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/gmG1svj/typography.png",
+      "title": "Logo Design",
+      "description": "Create a unique and memorable logo for your brand."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/FqTNLDz/app-development.png",
+      "title": "Web Design",
+      "description": "Design and develop stunning websites that drive results."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/vXvpgmv/app-development-1.png",
+      "title": "Mobile Apps",
+      "description": "Build mobile applications for iOS and Android platforms."
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/tsdT50h/marketing.png",
+      "title": "Digital Marketing",
+      "description": "Strategize and execute effective digital marketing campaigns."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/B6v8cwD/create.png",
+      "title": "Branding and Art",
+      "description": "Craft a unique brand identity and artistic solutions."
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/WWfD0gz/metaverse.png",
+      "title": "3D Animation",
+      "description": "Create engaging 3D animations for various applications."
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/6myqBFY/ai-file.png",
+      "title": "Illustration",
+      "description": "Produce captivating illustrations for diverse projects."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/tsdT50h/marketing.png",
+      "title": "Design and Development",
+      "description": "Offer comprehensive design and development services."
+    }
+  ]
+  

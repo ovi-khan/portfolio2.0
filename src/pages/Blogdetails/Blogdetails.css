@@ -1,0 +1,15 @@
+.searchicon{
+    padding-right: 25px;
+    background-image: url("https://i.ibb.co/3s8Fx4D/magnifying-glass.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+background-size: 30px 30px;
+
+}
+.linkclick:hover .linksign{
+    background-color:rgb(99 102 241) ;
+}
+.linkclick:hover .linkname{
+    color:rgb(99 102 241) ;
+}

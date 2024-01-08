@@ -1,0 +1,30 @@
+.services-bg {
+    background-image: url("../../assets//images/banner-image/serviceBg.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+
+
+.services-bg::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8); /* 30% opacity black background */
+}
+
+.rounded-effect {
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    -webkit-clip-path: polygon(100% 100, 100% 49%, 54% 100%, 43% 100%, 0 50%, 0 0);
+    clip-path: polygon(100% 0, 100% 49%, 54% 100%, 43% 100%, 0 50%, 0 0);
+}
+
+
+    
+
+  
+
+  

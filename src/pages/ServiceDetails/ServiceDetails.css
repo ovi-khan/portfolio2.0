@@ -1,0 +1,39 @@
+.service-details-bg {
+    background-image: url("../../assets/images/banner-image/serviceBg.jpg");
+    background-size: cover;
+    background-position: center;
+    opacity: 0.7;
+  }
+
+
+.service-details-bg::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1); /* 30% opacity black background */
+}
+.service-details-bg2 {
+    background-image: url("../../assets/images/banner-image/serviceBg.jpg");
+    background-size: cover;
+    background-position: center;
+    opacity: 0.7;
+  }
+
+
+.service-details-bg2::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* width: 100%; */
+    background-color: rgba(0, 0, 0, 0.1); /* 30% opacity black background */
+}
+
+.custom-hr {
+  width: 64px;
+  margin-top: 4px;
+  border-color: rgba(73, 34, 202, 0.763);
+  border-width: 1px;
+}

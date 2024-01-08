@@ -1,0 +1,100 @@
+.images {
+  height:7000px;
+  background-image: url("../../../assets/images/banner-image/about.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.8;
+}
+
+.image1 {
+  position: absolute;
+  left: 57%;
+  padding: 1px;
+  top: 1%;
+}
+.image2 {
+  position: absolute;
+  top: 23%;
+  right: 20%;
+  padding: 1px;
+}
+.image3 {
+  position: absolute;
+  top: 55%;
+  left: 12%;
+  padding: 1px;
+}
+.image4 {
+  position: absolute;
+  top: 57%;
+  right: 2%;
+  padding: 1px;
+}
+.commonbutton {
+  padding: 1px;
+}
+.numbers {
+  color: black;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  text-shadow: -1px -1px 0 grey, 1px -1px 0 grey, -1px 1px 0 grey,
+    1px 1px 0 grey;
+}
+.aboutinfo {
+  background-image: url("/src/assets/images/abstract/abstract2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+
+@media screen and (max-width: 768px) {
+    .image1 {
+        position: absolute;
+        left: 30%;
+        padding: 1px;
+        top: -2%;
+      }
+      .image2 {
+        position: absolute;
+        top: 23%;
+        right: 20%;
+        padding: 1px;
+      }
+      .image3 {
+        position: absolute;
+        top: 55%;
+        left: 12%;
+        padding: 1px;
+      }
+      .image4 {
+        position: absolute;
+        top: 75%;
+        right: 13%;
+        padding: 1px;
+      }
+}
+
+@media screen and (max-width: 480px) {
+    .image1 {
+        position: absolute;
+        left: 50%;
+        padding: 1px;
+        top: 0%;
+      }
+      .image2 {
+        position: absolute;
+        top: 0%;
+        right: 20%;
+        padding: 1px;
+      }
+      .image3 {
+        position: absolute;
+        padding: 1px;
+      }
+      .image4 {
+        position: absolute;
+        top: 35%;
+        right: 13%;
+        padding: 1px;
+      }
+}
